@@ -23,6 +23,14 @@ Hello 👋 I am an undergraduate student of Computer Science at the National and
 
 ---
 
+### I am currently learning
+<div>
+ <img height=50px title="Bootstrap" src="icons/bootstrap.svg" />
+ <img height=50px title="AntDesign" src="icons/antdesign.svg" />
+ <img height=50px title="Vue" src="icons/vue.svg" />
+ <img height=50px title="Django" src="icons/django.svg" />
+</div>
+
 <h3>🧰 My Toolset</h3>
 
 <table style="border: none;">
@@ -50,7 +58,7 @@ Hello 👋 I am an undergraduate student of Computer Science at the National and
  <tr height=80px>
   <td>Front-End</td>
   <td>
-   <img height=50px title="ReactJS" src="icons/reactjs.svg" />
+   <img height=50px title="React" src="icons/react.svg" />
   </td>
  </tr>
 
@@ -75,7 +83,7 @@ Hello 👋 I am an undergraduate student of Computer Science at the National and
    <img height=50px title="linux" src="icons/linux.svg" />
    <img height=50px title="bash" src="icons/bash.svg" />
    <img height=50px title="git" src="icons/git.svg" />
-   <img height=50px title="github" src="icons/github.svg" />
+   <img height=50px title="github" src="icons/github.png" />
    <img height=50px title="postman" src="icons/postman.svg" />
   </td>
  </tr>
