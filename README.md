@@ -13,17 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Stelios Oikonomou </h1>
+### Stelios Oikonomou
 
 **`CS Undergraduate`**
 **`Full-Stack Trainee`**
 
-### About me
 Hello 👋 I am an undergraduate student of Computer Science at the National and Kapodistrian University of Athens. 
 
 ---
 
-### I am currently learning
+### 📚 I am currently learning
 <div>
  <img height=50px title="Bootstrap" src="icons/bootstrap.svg" />
  <img height=50px title="AntDesign" src="icons/antdesign.svg" />
@@ -31,7 +30,9 @@ Hello 👋 I am an undergraduate student of Computer Science at the National and
  <img height=50px title="Django" src="icons/django.svg" />
 </div>
 
-<h3>🧰 My Toolset</h3>
+---
+
+### 🧰 My Toolset
 
 <table style="border: none;">
 
