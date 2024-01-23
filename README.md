@@ -20,17 +20,13 @@ Here are some ideas to get you started:
 
 Hello 👋 I am an undergraduate student of Computer Science at the National and Kapodistrian University of Athens. 
 
-<!--
 ---
  
 ### 📚 I am currently learning
 <div>
- <img height=50px title="Bootstrap" src="icons/bootstrap.svg" />
- <img height=50px title="AntDesign" src="icons/antdesign.svg" />
- <img height=50px title="Vue" src="icons/vue.svg" />
- <img height=50px title="Django" src="icons/django.svg" />
+ <img height=50px title="Spring" src="icons/spring.svg" />
+ <img height=50px title="SpringBoot" src="icons/spring-boot.png />
 </div>
--->
 
 ---
 
