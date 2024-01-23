@@ -24,8 +24,8 @@ Hello 👋 I am an undergraduate student of Computer Science at the National and
  
 ### 📚 I am currently learning
 <div>
- <img height=50px title="Spring" src="icons/spring.svg" />
- <img height=50px title="SpringBoot" src="icons/spring-boot.png />
+ <img width=60px height=50px title="Spring" src="icons/spring.svg" />
+ <img width=60px height=50px title="SpringBoot" src="icons/spring-boot.png" />
 </div>
 
 ---
@@ -37,20 +37,20 @@ Hello 👋 I am an undergraduate student of Computer Science at the National and
  <tr height=80px>
   <td width=200px>Programming</td>
   <td width=1000px>
-   <img height=50px title="C" src="icons/c.svg" />
-   <img height=50px title="C++" src="icons/cplusplus.svg" />   
-   <img height=50px title="Java" src="icons/java.svg" />
-   <img height=50px title="Python" src="icons/python.svg" />
+   <img width=60px height=50px title="C" src="icons/c.svg" />
+   <img width=60px height=50px title="C++" src="icons/cplusplus.svg" />   
+   <img width=60px height=50px title="Java" src="icons/java.svg" />
+   <img width=60px height=50px title="Python" src="icons/python.svg" />
   </td>
  </tr>
 
  <tr height=80px>
   <td>Web</td>
   <td>
-   <img height="50px" title="HTML5" src="icons/html5.svg" />
-   <img height="50px" title="CSS3" src="icons/css3.svg" />
-   <img height=50px title="JavaScript" src="icons/javascript.svg" />
-   <img height=50px title="JavaScript" src="icons/typescript.svg" />
+   <img width=60px height="50px" title="HTML5" src="icons/html5.svg" />
+   <img width=60px height="50px" title="CSS3" src="icons/css3.svg" />
+   <img width=60px height=50px title="JavaScript" src="icons/javascript.svg" />
+   <img width=60px height=50px title="JavaScript" src="icons/typescript.svg" />
   </td>
  </tr>
 
@@ -72,18 +72,18 @@ Hello 👋 I am an undergraduate student of Computer Science at the National and
  <tr height=80px>
   <td>UI</td>
   <td>
-   <img height=50px title="materialui" src="icons/materialui.svg" />
+   <img width=60px height=50px title="materialui" src="icons/materialui.svg" />
   </td>
  </tr>
 
  <tr height=80px>
   <td>Tools</td>
   <td>
-   <img height=50px title="linux" src="icons/linux.svg" />
-   <img height=50px title="bash" src="icons/bash.svg" />
-   <img height=50px title="git" src="icons/git.svg" />
-   <img height=50px title="github" src="icons/github.png" />
-   <img height=50px title="postman" src="icons/postman.svg" />
+   <img width=60px height=50px title="linux" src="icons/linux.svg" />
+   <img width=60px height=50px title="bash" src="icons/bash.svg" />
+   <img width=60px height=50px title="git" src="icons/git.svg" />
+   <img width=60px height=50px title="github" src="icons/github.png" />
+   <img width=60px height=50px title="postman" src="icons/postman.svg" />
   </td>
  </tr>
 
