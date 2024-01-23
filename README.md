@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Stelios Oikonomou
 
 **`CS Undergraduate`**
-**`Full-Stack Trainee`**
+**`Intern Back-End Developer`**
 
 Hello 👋 I am an undergraduate student of Computer Science at the National and Kapodistrian University of Athens. 
 
